@@ -39,7 +39,7 @@ var conf = pkgConf.sync('ava');
 
 var cli = meow([
 	'Usage',
-	'  ava [<file|folder|glob> ...]',
+	'  ava [<file|directory|glob> ...]',
 	'',
 	'Options',
 	'  --init           Add AVA to your project',
